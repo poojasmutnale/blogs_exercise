@@ -68,7 +68,7 @@ The command line dropped in popularity following the introduction of [GUI](https
 - `echo`:
     - Enter input into a file, create a file.
 
-![Screenshot of the terminal showing the use of basic commands](/home/pooja/blogs/screenshot.png)
+![Screenshot of the terminal showing the use of basic commands](./screenshot.png)
 
 ## Conclusion
 
